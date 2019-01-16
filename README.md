@@ -1,6 +1,9 @@
 # Cellular-Automaton-for-Wildfires
 A simple cellular automaton to model wildfires using Python.
 
+![alt text](https://github.com/Tetraktyz/Cellular-Automaton-for-Wildfires/blob/master/big.gif)
+
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
