@@ -30,6 +30,6 @@ pip install numpy imageio jupyter
 
 ## Authors
 
-* **Pedro Ferreira** 
+* **Pedro L. Ferreira** 
 
 Visit my website at [https://pedrolferreira.github.io/](https://pedrolferreira.github.io/).
