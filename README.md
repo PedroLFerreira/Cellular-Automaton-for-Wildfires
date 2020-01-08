@@ -28,8 +28,8 @@ pip install numpy imageio jupyter
 ```
 
 
-## Author
+## Authors
 
-**Pedro Ferreira [@Tetraktyz]** 
+* **Pedro Ferreira** 
 
-Visit my website at [https://tetraktyz.github.io/](https://tetraktyz.github.io/).
+Visit my website at [https://pedrolferreira.github.io/](https://pedrolferreira.github.io/).
